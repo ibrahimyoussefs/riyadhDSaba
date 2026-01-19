@@ -7,6 +7,8 @@ plotly.express>=0.4.1
 folium>=0.14.0
 nltk>=3.8.1
 streamlit-folium>=0.11.0
+streamlit-image-coordinates>=0.0.4
+
 
 
 
