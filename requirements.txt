@@ -5,5 +5,8 @@ python-dotenv>=0.21
 plotly>=5.15.0
 plotly.express>=0.4.1
 folium>=0.14.0
-
 nltk>=3.8.1
+streamlit-folium>=0.11.0
+
+
+
